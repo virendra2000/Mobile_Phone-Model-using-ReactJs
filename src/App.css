@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+.main {
+    background: url('./assets/wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
