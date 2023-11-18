@@ -16,3 +16,27 @@ Welcome to the Mobile Phone Screen Model project! This repository contains the f
 
 ## Getting Started
 To get a copy of this project up and running on your local machine, follow these simple steps:
+
+### 1. Clone Repository
+https://github.com/virendra2000/Mobile_Phone-Model-using-ReactJs.git
+
+### 2. Open the Project Folder
+cd Mobile_Phone-Model-using-ReactJs
+
+### 3. Open the Project Folder in VS Code By Right Click & Select Open With Code
+### 4. Then , Open the Terminal
+
+### 5. Install Project Packages
+ npm i
+
+ ### 6. Run the Project
+ npm run dev
+
+## Contributing
+We welcome contributions! If you'd like to contribute to the project, please follow these steps:
+1. Fork the repository and create a new branch.
+2. Make your changes and test them thoroughly.
+3. Submit a pull request with a detailed description of your changes.
+
+Feedback
+We value your feedback! If you have any questions, suggestions, or issues, please open an issue or reach out to vkalwar132000@gmail.com .
