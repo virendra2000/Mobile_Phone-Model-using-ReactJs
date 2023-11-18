@@ -1,2 +1,3 @@
-# Mobile Phone Model using React Js & Tailwind CSS
+# Project Title
+## **Mobile Phone Model using React Js & Tailwind CSS*
 
